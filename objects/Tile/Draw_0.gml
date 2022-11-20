@@ -1,0 +1,10 @@
+if(hover)
+{
+	shader_set(TranslucentShader);
+	draw_self();
+	shader_reset();
+}
+else
+{
+	draw_self();
+}
