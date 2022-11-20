@@ -1,10 +1,10 @@
-if(hover)
+if(not hovered)
 {
-	shader_set(TranslucentShader);
 	draw_self();
-	shader_reset();
 }
 else
 {
+	shader_set(LightenShader);
 	draw_self();
+	shader_reset();
 }

@@ -1,1 +1,1 @@
-hover = false;
+hovered = false;

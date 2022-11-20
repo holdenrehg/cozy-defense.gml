@@ -1,7 +1,7 @@
 {
   "resourceType": "GMShader",
   "resourceVersion": "1.0",
-  "name": "TranslucentShader",
+  "name": "LightenShader",
   "type": 1,
   "parent": {
     "name": "cozy-defense.gml",

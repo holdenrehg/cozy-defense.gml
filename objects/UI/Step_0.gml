@@ -4,8 +4,7 @@ if(tile == noone)
 {
 	clear_focus();
 }
-else if(tile != focused_tile)
+else
 {
-	clear_focus();
 	set_focus(tile);
 }

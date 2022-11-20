@@ -4,11 +4,11 @@
   "name": "cozy-defense.gml",
   "resources": [
     {"id":{"name":"MapController","path":"objects/MapController/MapController.yy",},"order":12,},
-    {"id":{"name":"UI","path":"objects/UI/UI.yy",},"order":14,},
     {"id":{"name":"GrassSprite","path":"sprites/GrassSprite/GrassSprite.yy",},"order":0,},
+    {"id":{"name":"UI","path":"objects/UI/UI.yy",},"order":14,},
     {"id":{"name":"Tile","path":"objects/Tile/Tile.yy",},"order":1,},
     {"id":{"name":"DisplayManager","path":"objects/DisplayManager/DisplayManager.yy",},"order":13,},
-    {"id":{"name":"TranslucentShader","path":"shaders/TranslucentShader/TranslucentShader.yy",},"order":15,},
+    {"id":{"name":"LightenShader","path":"shaders/LightenShader/LightenShader.yy",},"order":15,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
