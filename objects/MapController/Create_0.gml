@@ -6,10 +6,8 @@ TILE_INDEX = {
 function draw_map()
 {
 	var tile_layout = make_map_layout();
-	var tile_xscale = 0.5;
-	var tile_yscale = 0.5;
-	var tile_width = 240 * tile_xscale;
-	var tile_height = 138 * tile_yscale;
+	var tile_width = 240;
+	var tile_height = 138;
 	
 	for(var row = 0; row < array_length(tile_layout); row++)
 	{
@@ -27,8 +25,6 @@ function draw_map()
 				Tile,
 				{
 					sprite_index: sprite,
-					image_xscale: tile_xscale,
-					image_yscale: tile_yscale,
 				}
 			);
 		}

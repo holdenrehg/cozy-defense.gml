@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Terrain","order":11,"path":"folders/Terrain.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"MapController","order":12,"path":"objects/MapController/MapController.yy",},
+    {"name":"UI","order":14,"path":"objects/UI/UI.yy",},
+    {"name":"Tile","order":1,"path":"objects/Tile/Tile.yy",},
+    {"name":"WizardTowerLevel1Sprite","order":2,"path":"sprites/WizardTowerLevel1Sprite/WizardTowerLevel1Sprite.yy",},
+    {"name":"DisplayManager","order":13,"path":"objects/DisplayManager/DisplayManager.yy",},
+    {"name":"LightenShader","order":15,"path":"shaders/LightenShader/LightenShader.yy",},
+    {"name":"Tower","order":3,"path":"objects/Tower/Tower.yy",},
+  ],
+}
