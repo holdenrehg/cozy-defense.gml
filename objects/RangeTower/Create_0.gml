@@ -1,0 +1,1 @@
+time_since_last_attack = current_time;

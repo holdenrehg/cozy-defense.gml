@@ -1,15 +1,27 @@
 {
   "FolderOrderSettings": [
+    {"name":"Enemies","order":16,"path":"folders/Enemies.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Terrain","order":11,"path":"folders/Terrain.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"SimpleEnemySprite","order":1,"path":"sprites/SimpleEnemySprite/SimpleEnemySprite.yy",},
     {"name":"MapController","order":12,"path":"objects/MapController/MapController.yy",},
+    {"name":"Road4Sprite","order":9,"path":"sprites/Road4Sprite/Road4Sprite.yy",},
+    {"name":"CastleSprite","order":5,"path":"sprites/CastleSprite/CastleSprite.yy",},
+    {"name":"Bullet","order":11,"path":"objects/Bullet/Bullet.yy",},
     {"name":"UI","order":14,"path":"objects/UI/UI.yy",},
     {"name":"Tile","order":1,"path":"objects/Tile/Tile.yy",},
     {"name":"WizardTowerLevel1Sprite","order":2,"path":"sprites/WizardTowerLevel1Sprite/WizardTowerLevel1Sprite.yy",},
+    {"name":"Road3Sprite","order":8,"path":"sprites/Road3Sprite/Road3Sprite.yy",},
     {"name":"DisplayManager","order":13,"path":"objects/DisplayManager/DisplayManager.yy",},
+    {"name":"RangeTower","order":10,"path":"objects/RangeTower/RangeTower.yy",},
     {"name":"LightenShader","order":15,"path":"shaders/LightenShader/LightenShader.yy",},
+    {"name":"DefaultFont","order":17,"path":"fonts/DefaultFont/DefaultFont.yy",},
     {"name":"Tower","order":3,"path":"objects/Tower/Tower.yy",},
+    {"name":"Castle","order":4,"path":"objects/Castle/Castle.yy",},
+    {"name":"Road2Sprite","order":7,"path":"sprites/Road2Sprite/Road2Sprite.yy",},
+    {"name":"BulletSprite","order":12,"path":"sprites/BulletSprite/BulletSprite.yy",},
+    {"name":"Road1Sprite","order":6,"path":"sprites/Road1Sprite/Road1Sprite.yy",},
   ],
 }

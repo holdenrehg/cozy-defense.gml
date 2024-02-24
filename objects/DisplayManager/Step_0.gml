@@ -1,3 +1,6 @@
+var map_controller = instance_find(MapController, 0);
+if(map_controller.gameover) return; // stop interactions with the map if game over
+
 var camera = view_camera[0];
 
 // |-----------------------------------------------------------------------------------

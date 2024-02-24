@@ -1,0 +1,1 @@
+hitpoints = 2;
